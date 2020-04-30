@@ -1,0 +1,53 @@
+body{
+    background-color:  rgb(56, 52, 52);
+}
+
+h1{
+    text-align: center;
+    color: black;
+    font-size: 4vw;
+}
+
+
+.imgPerfil{
+    width: 35%;
+    display: block;
+    margin: auto;
+}
+
+div p{
+    text-align: justify;
+    font-size: 2vw;
+}
+
+.texto{
+    display: block;
+    margin: auto;
+    width: 60%;
+}
+
+.pasatiempoImg{
+    width: 90%;
+    display: block;
+    margin: auto;
+}
+
+table p{
+    text-align: justify;
+    font-size: 1.5vw;
+}
+
+table div{
+    margin: auto;
+    width: 70%;
+}
+ .contenedor{
+    margin: auto;
+    background: linear-gradient(-45deg, #c57962, #3b3634);
+    width: 90%;
+    
+    
+     
+     
+ }
+
