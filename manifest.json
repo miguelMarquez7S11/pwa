@@ -1,0 +1,11 @@
+{
+    "name": "Miguel Marquez",
+    "short_name": "MZ",
+    "lang": "es-MX",
+    "start_url": "./home",
+    "scope": "./",
+    "background_color": "#fff",
+    "theme_color": "#fff",
+    "display": "standalone"
+    
+}
