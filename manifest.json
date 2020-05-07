@@ -1,6 +1,6 @@
 {    
-    "name": "Biografia PWA",
-    "short_name": "MZ PWA",
+    "name": "BiografiaPWA",
+    "short_name": "MZPWA",
     "lang": "es-MX",
     "start_url": "/index.html",
     "display": "standalone",
