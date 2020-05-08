@@ -1,10 +1,11 @@
 {    
-    "name": "BiografiaPWA",
-    "short_name": "MZPWA",
+   "name": "Biografia PWA",
+    "short_name": "MZ",
     "lang": "es-MX",
     "start_url": "/index.html",
-    "display": "standalone",
+    "scope": "./",
     "background_color": "#FFE9D2",
     "theme_color": "#FFE1C4",
-    "orientation": "portrait-primary"   
+    "display": "standalone",
+    "orientación" : "retrato-primario" 
 }
